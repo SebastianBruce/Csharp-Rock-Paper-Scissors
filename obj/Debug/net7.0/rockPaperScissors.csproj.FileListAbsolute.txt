@@ -1,0 +1,14 @@
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\bin\Debug\net7.0\rockPaperScissors.exe
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\bin\Debug\net7.0\rockPaperScissors.deps.json
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\bin\Debug\net7.0\rockPaperScissors.runtimeconfig.json
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\bin\Debug\net7.0\rockPaperScissors.dll
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\bin\Debug\net7.0\rockPaperScissors.pdb
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.AssemblyInfo.cs
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.dll
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\refint\rockPaperScissors.dll
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.pdb
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\rockPaperScissors.genruntimeconfig.cache
+C:\Users\sdbru\OneDrive\Desktop\COMP1030 C#\rockPaperScissors\rockPaperScissors\obj\Debug\net7.0\ref\rockPaperScissors.dll
